@@ -27,7 +27,6 @@ void draw()
     galaxy[i].show();
     galaxy[i].fly();
   }
-  System.out.println(bob.myAngle);
 }
 void mousePressed()
 {
